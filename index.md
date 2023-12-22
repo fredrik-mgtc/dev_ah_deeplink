@@ -6,4 +6,3 @@
 <br>
 [VanGogh Less Known Masterworks](artheistpuzzle://gallery_promo?gallery_id=VanGogh_LessKnownMasterworks)
 <br>
-<a href="#artheistpuzzle://gallery_promo?gallery_id=VanGogh_LessKnownMasterworks">VanGogh Less Known Masterworks</a>
