@@ -9,7 +9,7 @@
 <br><br>
 [No Parameters](artheistpuzzle://open)
 <br><br>
-[Artist to Artist Value 1 (s.mgtc.dev)](https://s.mgtc.dev/ahp/open?gallery_id=artist_to_artist_1&v1=test_value1)
+[Artist to Artist Value 1 s.mgtc.dev](https://s.mgtc.dev/ahp/open?gallery_id=artist_to_artist_1&v1=test_value1)
 <br><br>
 [Artist to Artist Value 1](artheistpuzzle://open?gallery_id=artist_to_artist_1&v1=test_value1)
 <br><br>
