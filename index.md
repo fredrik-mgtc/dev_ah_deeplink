@@ -34,4 +34,4 @@ https://s.mgtc.dev/ahp/gallery_id=artist_to_artist_1&v1=test_value1&v2=test_valu
 
 Google Deep Link
 <br>
-com.googleusercontent.apps.1031742118575-gmeo1va4bupcmft9m188qmktjftomhf8://)
+[Google](com.googleusercontent.apps.1031742118575-gmeo1va4bupcmft9m188qmktjftomhf8://)
