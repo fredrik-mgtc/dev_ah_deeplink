@@ -10,6 +10,12 @@ https://s.mgtc.dev/ahp/open?gallery_id=artist_to_artist_1&v1=test_value1
 
 <br>
 
+With Invalid Gallery
+<br>
+https://s.mgtc.dev/ahp/open?gallery_id=invalid_gallery_id&v1=test_value1&v2=test_value2
+
+<br>
+
 City
 <br>
 https://s.mgtc.dev/city/open?v1=test_value1
@@ -20,9 +26,15 @@ https://s.mgtc.dev/ahp/open?gallery_id=artist_to_artist_1&v1=test_value1&v2=test
 
 <br>
 
-Bad Arguments Syntax
+Only Host
 <br>
-https://s.mgtc.dev/ahp/open?gallery_id==a% /r/?._=tist_to_artist_1&v1=test=_value1&v2=test_value2&v3=tes/()t_value3
+https://s.mgtc.dev
+
+<br>
+
+Bad Arguments
+<br>
+https://s.mgtc.dev/ahp/open?gal_l_e_ry_id=artist_to_artist_1&v4=test_value1&v2=test_value2&v3=test_value3.zip
 
 <br>
 
