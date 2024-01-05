@@ -1,23 +1,37 @@
-<br><br>
-[Artist to Artist](artheistpuzzle://open?gallery_id=artist_to_artist_1)
-<br><br>
-[Rembrandt](artheistpuzzle://open?gallery_id=rembrandt_1)
-<br><br>
-[VanGogh Less Known Masterworks](artheistpuzzle://open?gallery_id=VanGogh_LessKnownMasterworks)
-<br><br>
-[No Host](artheistpuzzle://)
-<br><br>
-[No Parameters](artheistpuzzle://open)
-<br><br>
-[Artist to Artist Value 1 s.mgtc.dev](https://s.mgtc.dev/ahp/open?gallery_id=artist_to_artist_1&v1=test_value1)
-<br><br>
-[Artist to Artist Value 1 s.mgtc.dev City](https://s.mgtc.dev/city/open?gallery_id=artist_to_artist_1&v1=test_value1)
-<br><br>
-[Artist to Artist Value 1](artheistpuzzle://open?gallery_id=artist_to_artist_1&v1=test_value1)
-<br><br>
-[Artist to Artist Value 1 2 3](artheistpuzzle://open?gallery_id=artist_to_artist_1&v1=test_value1&v2=test_value2&v3=test_value3)
-<br><br>
-[Google](com.googleusercontent.apps.1031742118575-gmeo1va4bupcmft9m188qmktjftomhf8://)
-<br><br>
-[Google No Protocol](com.googleusercontent.apps.1031742118575-gmeo1va4bupcmft9m188qmktjftomhf8)
-<br><br>
+Simple Case
+<br>
+https://s.mgtc.dev/ahp/open?v1=test_value1
+
+<br>
+
+With Gallery
+<br>
+https://s.mgtc.dev/ahp/open?gallery_id=artist_to_artist_1&v1=test_value1
+
+<br>
+
+City
+<br>
+https://s.mgtc.dev/city/open?v1=test_value1
+
+Arguments and Gallery
+<br>
+https://s.mgtc.dev/ahp/open?gallery_id=artist_to_artist_1&v1=test_value1&v2=test_value2&v3=test_value3
+
+<br>
+
+Bad Arguments Syntax
+<br>
+https://s.mgtc.dev/ahp/open?gallery_id==a% /r/?._=tist_to_artist_1&v1=test=_value1&v2=test_value2&v3=tes/()t_value3
+
+<br>
+
+No Open
+<br>
+https://s.mgtc.dev/ahp/gallery_id=artist_to_artist_1&v1=test_value1&v2=test_value2&v3=test_value3
+
+<br>
+
+Google Deep Link
+<br>
+com.googleusercontent.apps.1031742118575-gmeo1va4bupcmft9m188qmktjftomhf8://)
