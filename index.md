@@ -6,7 +6,7 @@
 <br><br>
 [City](https://s.mgtc.dev/city/open?v1=test_value1)
 <br><br>
-[Arguments and Gallery](https://s.mgtc.dev/ahp/open?gallery_id=artist_to_artist_1&v1=test_value1&v2=test_value2&v3=test_value3)
+[Arguments and Dennis Test Gallery](https://s.mgtc.dev/ahp/open?gallery_id=dennis_testgallery&v1=test_value1&v2=test_value2&v3=test_value3)
 <br><br>
 [Only Host](https://s.mgtc.dev)
 <br><br>
