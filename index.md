@@ -7,3 +7,8 @@
 <br><br>
 [Test iOS](https://s.mgtc.dev/ahp)
 <br><br>
+<br><br>
+[Test iOS 2](https://s.mgtc.dev/ahp/)
+<br><br>
+<br><br>
+[Test iOS 3](https://s.mgtc.dev/ahp/open)
